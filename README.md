@@ -1,5 +1,11 @@
 # Discord Game Bot
-This bot is designed for game servers on the engine Source. He could create voice channels with title - count of players on your servers, create text chanel where print all players on your server (he didn't spam, he send only one message and then edit it), create text chanel and support there command: !rankme *steamid*. After receiving that message bot will send information about player from database.
+This bot is designed for game servers on the engine Source.
+
+# Functions
+1. Bot can create voice channel with players count in title.
+2. Bot can create text channel and send there message with players name that are currently on server. He didn't spam, he send only one message and then edit it.
+3. Bot can create text channel and listen there rankme commands. Player can write !rankme *steamid* and bot will type his statistic.
+
 
 # Request
 1. Bot written on Java, so you need to download it. [Download java you can here.](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
