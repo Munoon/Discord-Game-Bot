@@ -10,7 +10,7 @@ This bot is designed for game servers on the engine Source. He could create voic
 3. Launch `start.bat` if you using windows and `start.sh` if you using linux.
 4. Enjoy your bot :)
 
-#Supporting commands
+# Supporting commands
 * `exit`/`close`/`quit` - that command closes the program. I recommend to use it because before closing this command delete all channels that was created by bot before closing.
 * `pause` - pausing all functions.
     * `pause count *id*` - pausing function count under id.
